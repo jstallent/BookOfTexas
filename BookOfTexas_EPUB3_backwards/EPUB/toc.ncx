@@ -1,0 +1,435 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+	<head>
+		<meta name="dtb:uid" content="9783141592658"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="68"/>
+		<meta name="dtb:maxPageNumber" content="59"/>
+	</head>
+
+	<docTitle>
+		<text>The Book of Texas</text>
+	</docTitle>
+
+	<navMap>
+		<navPoint id="navPoint-1" playOrder="1">
+			<navLabel><text>Title Page</text></navLabel>
+			<content src="03-title_page.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-2" playOrder="2">
+			<navLabel><text>Copyright</text></navLabel>
+			<content src="04-copyright.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-3" playOrder="3">
+			<navLabel><text>Preface</text></navLabel>
+			<content src="05-preface.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-4" playOrder="4">
+			<navLabel><text>Introduction</text></navLabel>
+			<content src="07-start.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-5" playOrder="5">
+			<navLabel><text>Part I. The Annals of a State</text></navLabel>
+			<content src="08-part1.xhtml"/>
+			<navPoint id="navPoint-6" playOrder="6">
+				<navLabel><text>I. Under Spain and France</text></navLabel>
+				<content src="09-part1_chap1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-7" playOrder="7">
+				<navLabel><text>II. The Coming of the People</text></navLabel>
+				<content src="10-part1_chap2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-8" playOrder="8">
+				<navLabel><text>III. Peaceful Development</text></navLabel>
+				<content src="12-part1_chap3.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navPoint-9" playOrder="9">
+			<navLabel><text>Part II. The People</text></navLabel>
+			<content src="14-part2.xhtml"/>
+			<navPoint id="navPoint-10" playOrder="10">
+				<navLabel><text>I. Their Number and Destribution</text></navLabel>
+				<content src="15-part2_chap1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-11" playOrder="11">
+				<navLabel><text>II. Their Nationality and Characteristics</text></navLabel>
+				<content src="16-part2_chap2.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navPoint-12" playOrder="12">
+			<navLabel><text>Where the West Begins</text></navLabel>
+			<content src="17-poem.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-13" playOrder="13">
+			<navLabel><text>Outline of Texas History</text></navLabel>
+			<content src="18-outline.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-14" playOrder="14">
+			<navLabel><text>Index</text></navLabel>
+			<content src="19-index.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-15" playOrder="15">
+			<navLabel><text>Glossary of People</text></navLabel>
+			<content src="20-glossary.xhtml"/>
+		</navPoint>
+	</navMap>
+
+	<pageList>
+		<pageTarget id="pagev" type="front" value="v" playOrder="16">
+			<navLabel><text>v</text></navLabel>
+			<content src="05-preface.xhtml#pagev"/>
+		</pageTarget>
+		<pageTarget id="pagevi" type="front" value="vi" playOrder="17">
+			<navLabel><text>vi</text></navLabel>
+			<content src="05-preface.xhtml#pagevi"/>
+		</pageTarget>
+		<pageTarget id="pagevii" type="front" value="vii" playOrder="18">
+			<navLabel><text>vii</text></navLabel>
+			<content src="05-preface.xhtml#pagevii"/>
+		</pageTarget>
+		<pageTarget id="pageix" type="front" value="ix" playOrder="19">
+			<navLabel><text>ix</text></navLabel>
+			<content src="06-TOC.xhtml#pageix"/>
+		</pageTarget>
+		<pageTarget id="pagex" type="front" value="x" playOrder="20">
+			<navLabel><text>x</text></navLabel>
+			<content src="06-TOC.xhtml#pagex"/>
+		</pageTarget>
+		<pageTarget id="pagexi" type="front" value="xi" playOrder="21">
+			<navLabel><text>xi</text></navLabel>
+			<content src="07-start.xhtml#pagexi"/>
+		</pageTarget>
+		<pageTarget id="pagexii" type="front" value="xii" playOrder="22">
+			<navLabel><text>xii</text></navLabel>
+			<content src="07-start.xhtml#pagexii"/>
+		</pageTarget>
+		<pageTarget id="pagexiii" type="front" value="xiii" playOrder="23">
+			<navLabel><text>xiii</text></navLabel>
+			<content src="07-start.xhtml#pagexiii"/>
+		</pageTarget>
+		<pageTarget id="pagexiv" type="front" value="xiv" playOrder="24">
+			<navLabel><text>xiv</text></navLabel>
+			<content src="07-start.xhtml#pagexiv"/>
+		</pageTarget>
+		<pageTarget id="pagexv" type="front" value="xv" playOrder="25">
+			<navLabel><text>xv</text></navLabel>
+			<content src="07-start.xhtml#pagexv"/>
+		</pageTarget>
+		<pageTarget id="pagexvi" type="front" value="xvi" playOrder="26">
+			<navLabel><text>xvi</text></navLabel>
+			<content src="07-start.xhtml#pagexvi"/>
+		</pageTarget>
+		<pageTarget id="pagexvii" type="front" value="xvii" playOrder="27">
+			<navLabel><text>xvii</text></navLabel>
+			<content src="07-start.xhtml#pagexvii"/>
+		</pageTarget>
+		<pageTarget id="page1" type="normal" value="1" playOrder="28">
+			<navLabel><text>1</text></navLabel>
+			<content src="08-part1.xhtml#page1"/>
+		</pageTarget>
+		<pageTarget id="page3" type="normal" value="3" playOrder="29">
+			<navLabel><text>3</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page3"/>
+		</pageTarget>
+		<pageTarget id="page4" type="normal" value="4" playOrder="30">
+			<navLabel><text>4</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page4"/>
+		</pageTarget>
+		<pageTarget id="page5" type="normal" value="5" playOrder="31">
+			<navLabel><text>5</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page5"/>
+		</pageTarget>
+		<pageTarget id="page6" type="normal" value="6" playOrder="32">
+			<navLabel><text>6</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page6"/>
+		</pageTarget>
+		<pageTarget id="page7" type="normal" value="7" playOrder="33">
+			<navLabel><text>7</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page7"/>
+		</pageTarget>
+		<pageTarget id="page8" type="normal" value="8" playOrder="34">
+			<navLabel><text>8</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page8"/>
+		</pageTarget>
+		<pageTarget id="page9" type="normal" value="9" playOrder="35">
+			<navLabel><text>9</text></navLabel>
+			<content src="09-part1_chap1.xhtml#page9"/>
+		</pageTarget>
+		<pageTarget id="page10" type="normal" value="10" playOrder="36">
+			<navLabel><text>10</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page10"/>
+		</pageTarget>
+		<pageTarget id="page11" type="normal" value="11" playOrder="37">
+			<navLabel><text>11</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page11"/>
+		</pageTarget>
+		<pageTarget id="page12" type="normal" value="12" playOrder="38">
+			<navLabel><text>12</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page12"/>
+		</pageTarget>
+		<pageTarget id="page13" type="normal" value="13" playOrder="39">
+			<navLabel><text>13</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page13"/>
+		</pageTarget>
+		<pageTarget id="page14" type="normal" value="14" playOrder="40">
+			<navLabel><text>14</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page14"/>
+		</pageTarget>
+		<pageTarget id="page15" type="normal" value="15" playOrder="41">
+			<navLabel><text>15</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page15"/>
+		</pageTarget>
+		<pageTarget id="page16" type="normal" value="16" playOrder="42">
+			<navLabel><text>16</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page16"/>
+		</pageTarget>
+		<pageTarget id="page17" type="normal" value="17" playOrder="43">
+			<navLabel><text>17</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page17"/>
+		</pageTarget>
+		<pageTarget id="page18" type="normal" value="18" playOrder="44">
+			<navLabel><text>18</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page18"/>
+		</pageTarget>
+		<pageTarget id="page19" type="normal" value="19" playOrder="45">
+			<navLabel><text>19</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page19"/>
+		</pageTarget>
+		<pageTarget id="page20" type="normal" value="20" playOrder="46">
+			<navLabel><text>20</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page20"/>
+		</pageTarget>
+		<pageTarget id="page21" type="normal" value="21" playOrder="47">
+			<navLabel><text>21</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page21"/>
+		</pageTarget>
+		<pageTarget id="page22" type="normal" value="22" playOrder="48">
+			<navLabel><text>22</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page22"/>
+		</pageTarget>
+		<pageTarget id="page23" type="normal" value="23" playOrder="49">
+			<navLabel><text>23</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page23"/>
+		</pageTarget>
+		<pageTarget id="page24" type="normal" value="24" playOrder="50">
+			<navLabel><text>24</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page24"/>
+		</pageTarget>
+		<pageTarget id="page25" type="normal" value="25" playOrder="51">
+			<navLabel><text>25</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page25"/>
+		</pageTarget>
+		<pageTarget id="page26" type="normal" value="26" playOrder="52">
+			<navLabel><text>26</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page26"/>
+		</pageTarget>
+		<pageTarget id="page27" type="normal" value="27" playOrder="53">
+			<navLabel><text>27</text></navLabel>
+			<content src="10-part1_chap2.xhtml#page27"/>
+		</pageTarget>
+		<pageTarget id="page28" type="normal" value="28" playOrder="54">
+			<navLabel><text>28</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page28"/>
+		</pageTarget>
+		<pageTarget id="page29" type="normal" value="29" playOrder="55">
+			<navLabel><text>29</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page29"/>
+		</pageTarget>
+		<pageTarget id="page30" type="normal" value="30" playOrder="56">
+			<navLabel><text>30</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page30"/>
+		</pageTarget>
+		<pageTarget id="page31" type="normal" value="31" playOrder="57">
+			<navLabel><text>31</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page31"/>
+		</pageTarget>
+		<pageTarget id="page32" type="normal" value="32" playOrder="58">
+			<navLabel><text>32</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page32"/>
+		</pageTarget>
+		<pageTarget id="page33" type="normal" value="33" playOrder="59">
+			<navLabel><text>33</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page33"/>
+		</pageTarget>
+		<pageTarget id="page34" type="normal" value="34" playOrder="60">
+			<navLabel><text>34</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page34"/>
+		</pageTarget>
+		<pageTarget id="page35" type="normal" value="35" playOrder="61">
+			<navLabel><text>35</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page35"/>
+		</pageTarget>
+		<pageTarget id="page36" type="normal" value="36" playOrder="62">
+			<navLabel><text>36</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page36"/>
+		</pageTarget>
+		<pageTarget id="page37" type="normal" value="37" playOrder="63">
+			<navLabel><text>37</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page37"/>
+		</pageTarget>
+		<pageTarget id="page38" type="normal" value="38" playOrder="64">
+			<navLabel><text>38</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page38"/>
+		</pageTarget>
+		<pageTarget id="page39" type="normal" value="39" playOrder="65">
+			<navLabel><text>39</text></navLabel>
+			<content src="12-part1_chap3.xhtml#page39"/>
+		</pageTarget>
+		<pageTarget id="page41" type="normal" value="41" playOrder="66">
+			<navLabel><text>41</text></navLabel>
+			<content src="14-part2.xhtml#page41"/>
+		</pageTarget>
+		<pageTarget id="page43" type="normal" value="43" playOrder="67">
+			<navLabel><text>43</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page43"/>
+		</pageTarget>
+		<pageTarget id="page44" type="normal" value="44" playOrder="68">
+			<navLabel><text>44</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page44"/>
+		</pageTarget>
+		<pageTarget id="page45" type="normal" value="45" playOrder="69">
+			<navLabel><text>45</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page45"/>
+		</pageTarget>
+		<pageTarget id="page46" type="normal" value="46" playOrder="70">
+			<navLabel><text>46</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page46"/>
+		</pageTarget>
+		<pageTarget id="page47" type="normal" value="47" playOrder="71">
+			<navLabel><text>47</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page47"/>
+		</pageTarget>
+		<pageTarget id="page48" type="normal" value="48" playOrder="72">
+			<navLabel><text>48</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page48"/>
+		</pageTarget>
+		<pageTarget id="page49" type="normal" value="49" playOrder="73">
+			<navLabel><text>49</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page49"/>
+		</pageTarget>
+		<pageTarget id="page50" type="normal" value="50" playOrder="74">
+			<navLabel><text>50</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page50"/>
+		</pageTarget>
+		<pageTarget id="page51" type="normal" value="51" playOrder="75">
+			<navLabel><text>51</text></navLabel>
+			<content src="15-part2_chap1.xhtml#page51"/>
+		</pageTarget>
+		<pageTarget id="page52" type="normal" value="52" playOrder="76">
+			<navLabel><text>52</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page52"/>
+		</pageTarget>
+		<pageTarget id="page53" type="normal" value="53" playOrder="77">
+			<navLabel><text>53</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page53"/>
+		</pageTarget>
+		<pageTarget id="page54" type="normal" value="54" playOrder="78">
+			<navLabel><text>54</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page54"/>
+		</pageTarget>
+		<pageTarget id="page55" type="normal" value="55" playOrder="79">
+			<navLabel><text>55</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page55"/>
+		</pageTarget>
+		<pageTarget id="page56" type="normal" value="56" playOrder="80">
+			<navLabel><text>56</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page56"/>
+		</pageTarget>
+		<pageTarget id="page57" type="normal" value="57" playOrder="81">
+			<navLabel><text>57</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page57"/>
+		</pageTarget>
+		<pageTarget id="page58" type="normal" value="58" playOrder="82">
+			<navLabel><text>58</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page58"/>
+		</pageTarget>
+		<pageTarget id="page59" type="normal" value="59" playOrder="83">
+			<navLabel><text>59</text></navLabel>
+			<content src="16-part2_chap2.xhtml#page59"/>
+		</pageTarget>
+	</pageList>
+
+   <navList>
+        <navLabel>
+            <text>List of Illustrations</text>
+        </navLabel>
+        <navTarget id="ill-1" playOrder="84">
+            <navLabel><text>The Alamo, San Antonio</text></navLabel>
+            <content src="02-alamoimage.xhtml#image_alamo01"/>
+        </navTarget>
+        <navTarget id="ill-2" playOrder="85">
+            <navLabel><text>A Typical Fort Worth Residence</text></navLabel>
+            <content src="10-part1_chap2.xhtml#image_house"/>
+        </navTarget>
+        <navTarget id="ill-3" playOrder="86">
+            <navLabel><text>A view of the Alamo Plaza, San Antonio</text></navLabel>
+            <content src="10-part1_chap2.xhtml#image_alamo02"/>
+        </navTarget>
+        <navTarget id="ill-4" playOrder="87">
+            <navLabel><text>A modern view of the Alamo Plaza, San Antonio</text></navLabel>
+            <content src="10-part1_chap2.xhtml#image_alamo03"/>
+        </navTarget>
+        <navTarget id="ill-5" playOrder="88">
+            <navLabel><text>Albert Sidney Burleson</text></navLabel>
+            <content src="11-imagegroup01.xhtml#image09"/>
+        </navTarget>
+        <navTarget id="ill-6" playOrder="89">
+            <navLabel><text>Thomas Watt Gregory</text></navLabel>
+            <content src="11-imagegroup01.xhtml#image10"/>
+        </navTarget>
+        <navTarget id="ill-7" playOrder="90">
+            <navLabel><text>Edward M. House</text></navLabel>
+            <content src="11-imagegroup01.xhtml#image11"/>
+        </navTarget>
+        <navTarget id="ill-8" playOrder="91">
+            <navLabel><text>V. W. Grubbs</text></navLabel>
+            <content src="11-imagegroup01.xhtml#image12"/>
+        </navTarget>
+        <navTarget id="ill-9" playOrder="92">
+            <navLabel><text>Robert Scott Lovett</text></navLabel>
+            <content src="11-imagegroup01.xhtml#image13"/>
+        </navTarget>
+        <navTarget id="ill-10" playOrder="93">
+            <navLabel><text>R. Waverly Smith</text></navLabel>
+            <content src="13-imagegroup02.xhtml#image14"/>
+        </navTarget>
+        <navTarget id="ill-11" playOrder="94">
+            <navLabel><text>John H. Kirby</text></navLabel>
+            <content src="13-imagegroup02.xhtml#image15"/>
+        </navTarget>
+        <navTarget id="ill-12" playOrder="95">
+            <navLabel><text>Geo. W. Brackenridge</text></navLabel>
+            <content src="13-imagegroup02.xhtml#image16"/>
+        </navTarget>
+        <navTarget id="ill-13" playOrder="96">
+            <navLabel><text>R. M. Johnston</text></navLabel>
+            <content src="13-imagegroup02.xhtml#image17"/>
+        </navTarget>
+        <navTarget id="ill-14" playOrder="97">
+            <navLabel><text>George W. Littlefield</text></navLabel>
+            <content src="13-imagegroup02.xhtml#image18"/>
+        </navTarget>
+        <navTarget id="ill-15" playOrder="98">
+            <navLabel><text>Map: Density of Population by Counties</text></navLabel>
+            <content src="15-part2_chap1.xhtml#map01"/>
+        </navTarget>
+    </navList>
+
+   <navList>
+        <navLabel>
+            <text>List of Charts</text>
+        </navLabel>
+        <navTarget id="chart-1" playOrder="99">
+            <navLabel><text>Growth of the Population of Texas</text></navLabel>
+            <content src="15-part2_chap1.xhtml#table01"/>
+        </navTarget>
+        <navTarget id="chart-2" playOrder="100">
+            <navLabel><text>Distribution of Texas population into rural and urban compared with the United States</text></navLabel>
+            <content src="15-part2_chap1.xhtml#table02"/>
+        </navTarget>
+        <navTarget id="chart-3" playOrder="101">
+            <navLabel><text>Population Statistics by Birth Place and Race</text></navLabel>
+            <content src="16-part2_chap2.xhtml#table03"/>
+        </navTarget>
+    </navList>
+
+</ncx>

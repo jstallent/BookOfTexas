@@ -1,0 +1,123 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+	<dc:title id="en_title" xml:lang="en-us">The Book of Texas</dc:title>
+		<meta refines="#en_title" property="title-type">main</meta>
+	    <meta refines="#en_title" property="file-as">Book of Texas, The</meta>
+	<dc:creator id="creator_aut">John A. Lomax</dc:creator>
+		<meta refines="#creator_aut" property="role" scheme="marc:relators">aut</meta>
+		<meta refines="#creator_aut" property="file-as">Lomax, John A.</meta>
+	<dc:creator id="creator_bkd">Joshua Tallent</dc:creator>
+		<meta refines="#creator_bkd" property="role" scheme="marc:relators">bkd</meta>
+		<meta refines="#creator_bkd" property="file-as">Tallent, Joshua</meta>
+	<dc:identifier id="uid">9783141592658</dc:identifier>
+		<meta property="dcterms:modified">2015-02-26T11:36:00Z</meta>
+		<meta refines="#uid" property="identifier-type" scheme="xsd:string">isbn</meta>
+	<dc:date>2014-04-23T13:43-06:00</dc:date>
+	<dc:description id="en_description" xml:lang="en-us">This is a sample book for EPUB 3 testing and development</dc:description>
+	<dc:language id="en_language">en-us</dc:language>
+	<dc:publisher id="en_publisher" xml:lang="en-us">eBook Architects</dc:publisher>
+	<dc:rights id="en_rights" xml:lang="en-us">All rights reserved. While the text of this book is in the public domain and available on Google Books, the design of this eBook file was developed by eBook Architects. The contents of this eBook file may only be used for non-commercial testing by individual eBook developers.</dc:rights>
+	<meta name="eBookCreators" content="eBook Architects - a service of Firebrand Technologies" />
+	<meta property="rendition:spread">both</meta>
+	<meta property="ibooks:specified-fonts">true</meta>
+	<meta property="ibooks:version">2.0.1</meta>
+	<meta name="cover" content="coverimage" />
+</metadata>
+
+<manifest>
+	<item id="item1" media-type="application/xhtml+xml" href="01-cover.xhtml"></item>
+	<item id="item2" media-type="application/xhtml+xml" href="02-alamoimage.xhtml"></item>
+	<item id="item3" media-type="application/xhtml+xml" href="03-title_page.xhtml"></item>
+	<item id="item4" media-type="application/xhtml+xml" href="04-copyright.xhtml"></item>
+	<item id="item5" media-type="application/xhtml+xml" href="05-preface.xhtml"></item>
+	<item id="item6" media-type="application/xhtml+xml" href="06-TOC.xhtml" properties="nav"></item>
+	<item id="item7" media-type="application/xhtml+xml" href="07-start.xhtml"></item>
+	<item id="item8" media-type="application/xhtml+xml" href="08-part1.xhtml"></item>
+	<item id="item9" media-type="application/xhtml+xml" href="09-part1_chap1.xhtml"></item>
+	<item id="item10" media-type="application/xhtml+xml" href="10-part1_chap2.xhtml"></item>
+	<item id="item11" media-type="application/xhtml+xml" href="11-imagegroup01.xhtml"></item>
+	<item id="item12" media-type="application/xhtml+xml" href="12-part1_chap3.xhtml"></item>
+	<item id="item13" media-type="application/xhtml+xml" href="13-imagegroup02.xhtml"></item>
+	<item id="item14" media-type="application/xhtml+xml" href="14-part2.xhtml"></item>
+	<item id="item15" media-type="application/xhtml+xml" href="15-part2_chap1.xhtml"></item>
+	<item id="item16" media-type="application/xhtml+xml" href="16-part2_chap2.xhtml"></item>
+	<item id="item17" media-type="application/xhtml+xml" href="17-poem.xhtml"></item>
+	<item id="item18" media-type="application/xhtml+xml" href="18-outline.xhtml"></item>
+	<item id="item19" media-type="application/xhtml+xml" href="19-index.xhtml"></item>
+	<item id="item20" media-type="application/xhtml+xml" href="20-glossary.xhtml"></item>
+	<item id="item21" media-type="application/xhtml+xml" href="21-colophon.xhtml"></item>
+	<item id="otf1" href="fonts/CrimsonText-Bold.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf2" href="fonts/CrimsonText-BoldItalic.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf3" href="fonts/CrimsonText-Italic.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf4" href="fonts/CrimsonText-Roman.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf5" href="fonts/DancingScript-Bold.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf6" href="fonts/DancingScript.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf7" href="fonts/DejaVuSans-Bold.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf8" href="fonts/DejaVuSans-BoldOblique.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf9" href="fonts/DejaVuSans-Oblique.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf10" href="fonts/DejaVuSans.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf11" href="fonts/texgyrecursor-italic.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="otf12" href="fonts/texgyrecursor-regular.ttf" media-type="application/vnd.ms-opentype"></item>
+	<item id="coverimage" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"></item>
+	<item id="image1" href="images/bluebonnet.png" media-type="image/png"></item>
+	<item id="image2" href="images/cc.png" media-type="image/png"></item>
+	<item id="image3" href="images/eba.jpg" media-type="image/jpeg"></item>
+	<item id="image4" href="images/flag.jpg" media-type="image/jpeg"></item>
+	<item id="image5" href="images/image01.jpg" media-type="image/jpeg"></item>
+	<item id="image6" href="images/image02.jpg" media-type="image/jpeg"></item>
+	<item id="image7" href="images/image03.png" media-type="image/png"></item>
+	<item id="image8" href="images/image04.jpg" media-type="image/jpeg"></item>
+	<item id="image9" href="images/image05.jpg" media-type="image/jpeg"></item>
+	<item id="image10" href="images/image06.jpg" media-type="image/jpeg"></item>
+	<item id="image11" href="images/image07.jpg" media-type="image/jpeg"></item>
+	<item id="image12" href="images/image08.jpg" media-type="image/jpeg"></item>
+	<item id="image13" href="images/image09.jpg" media-type="image/jpeg"></item>
+	<item id="image14" href="images/image10.jpg" media-type="image/jpeg"></item>
+	<item id="image15" href="images/image11.jpg" media-type="image/jpeg"></item>
+	<item id="image16" href="images/image12.jpg" media-type="image/jpeg"></item>
+	<item id="image17" href="images/image13.jpg" media-type="image/jpeg"></item>
+	<item id="image18" href="images/image14.jpg" media-type="image/jpeg"></item>
+	<item id="image19" href="images/image15.jpg" media-type="image/jpeg"></item>
+	<item id="image20" href="images/image16.jpg" media-type="image/jpeg"></item>
+	<item id="image21" href="images/image17.jpg" media-type="image/jpeg"></item>
+	<item id="image22" href="images/image18.jpg" media-type="image/jpeg"></item>
+	<item id="image23" href="images/logo.jpg" media-type="image/jpeg"></item>
+	<item id="image24" href="images/map01.jpg" media-type="image/jpeg"></item>
+	<item id="image25" href="images/quote-bottom.png" media-type="image/png"></item>
+	<item id="image26" href="images/quote-top.png" media-type="image/png"></item>
+	<item id="image27" href="images/CountryLifeColophon.png" media-type="image/png"></item>
+	<item id="css1" href="styles.css" media-type="text/css"></item>
+	<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"></item>
+</manifest>
+
+<spine toc="ncx">
+	<itemref idref="item1" properties="rendition:spread-none"/>
+	<itemref idref="item2"/>
+	<itemref idref="item3"/>
+	<itemref idref="item4"/>
+	<itemref idref="item5"/>
+	<itemref idref="item6"/>
+	<itemref idref="item7"/>
+	<itemref idref="item8"/>
+	<itemref idref="item9"/>
+	<itemref idref="item10"/>
+	<itemref idref="item11"/>
+	<itemref idref="item12"/>
+	<itemref idref="item13"/>
+	<itemref idref="item14"/>
+	<itemref idref="item15"/>
+	<itemref idref="item16"/>
+	<itemref idref="item17"/>
+	<itemref idref="item18"/>
+	<itemref idref="item19"/>
+	<itemref idref="item20"/>
+	<itemref idref="item21"/>
+</spine>
+
+<guide>
+    <reference type="text" title="Startup Page" href="07-start.xhtml"></reference>
+    <reference type="toc" title="Table of Contents" href="06-TOC.xhtml"></reference>
+    <reference type="cover" title="Cover" href="01-cover.xhtml"></reference>
+</guide>
+
+</package>
