@@ -1,4 +1,4 @@
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ rendition: http://www.idpf.org/vocab/rendition/#">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
 	<dc:title id="en_title" xml:lang="en-us">The Book of Texas</dc:title>
 		<meta refines="#en_title" property="title-type">main</meta>
