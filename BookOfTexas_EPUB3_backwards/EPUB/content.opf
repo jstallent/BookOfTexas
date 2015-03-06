@@ -10,7 +10,7 @@
 		<meta refines="#creator_bkd" property="role" scheme="marc:relators">bkd</meta>
 		<meta refines="#creator_bkd" property="file-as">Tallent, Joshua</meta>
 	<dc:identifier id="uid">9783141592658</dc:identifier>
-		<meta property="dcterms:modified">2015-02-26T11:36:00Z</meta>
+		<meta property="dcterms:modified">2015-03-06T02:55:00Z</meta>
 		<meta refines="#uid" property="identifier-type" scheme="xsd:string">isbn</meta>
 	<dc:date>2014-04-23T13:43-06:00</dc:date>
 	<dc:description id="en_description" xml:lang="en-us">This is a sample book for EPUB 3 testing and development</dc:description>
@@ -18,9 +18,9 @@
 	<dc:publisher id="en_publisher" xml:lang="en-us">eBook Architects</dc:publisher>
 	<dc:rights id="en_rights" xml:lang="en-us">All rights reserved. While the text of this book is in the public domain and available on Google Books, the design of this eBook file was developed by eBook Architects. The contents of this eBook file may only be used for non-commercial testing by individual eBook developers.</dc:rights>
 	<meta name="eBookCreators" content="eBook Architects - a service of Firebrand Technologies" />
-	<meta property="rendition:spread">both</meta>
+	<meta property="rendition:spread">auto</meta>
 	<meta property="ibooks:specified-fonts">true</meta>
-	<meta property="ibooks:version">2.0.1</meta>
+	<meta property="ibooks:version">2.0.3</meta>
 	<meta name="cover" content="coverimage" />
 </metadata>
 
