@@ -17,6 +17,10 @@ The contents of this eBook file may only be used for non-commercial testing by i
 
 ## Change Log
 
+#### Version 2.0.4
+- Added type="text/css" to the CSS link. Required for Amazon.
+- changed guide item "text" to "bodymatter"
+
 #### Version 2.0.3
 - rendition:spread value changed to "auto" so that it would not override the system default
 
