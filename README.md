@@ -17,6 +17,13 @@ The contents of this eBook file may only be used for non-commercial testing by i
 
 ## Change Log
 
+#### Version 2.1
+- Added lang and xml-lang attributes to the <html> tag
+- Added aria-describedby content to the tables in Part 2.
+- Added a footnote to Part 1, Chapter 2 as an example
+- Added epub:type="pullquote" in Intro and in Part 1, Chapter 2
+- Updated structural semantics in Index
+
 #### Version 2.0.4
 - Added type="text/css" to the CSS link. Required for Amazon.
 - changed guide item "text" to "bodymatter"
